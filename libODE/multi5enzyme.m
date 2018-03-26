@@ -61,7 +61,7 @@ dpD = m2pD - (lambda+dypD)*pD;
 dsD = (((vD.*sC)./(kD + sC)).*pD) - (((vE.*sD)./(kE + sD)).*pE) - (lambda + dysD)*sD;
 
 dmE = g2mE - (lambda+dymE)*mE + m2pE - bE*pR(ribochoose(5))*mE + uE*cE;
-dcE = -(lambda+dypR)*cE + bE*pR(ribochoose(4))*mE - uE*cE - m2pE - fcm*cm0*cE + rcm*zE;
+dcE = -(lambda+dypR)*cE + bE*pR(ribochoose(5))*mE - uE*cE - m2pE - fcm*cm0*cE + rcm*zE;
 dzE = fcm*cm0*cE - rcm*zE -(lambda+dypR)*zE;
 dpE = m2pE - (lambda+dypE)*pE;
 dsE = ((vE.*sD)./(kE + sD)).*pE - (lambda + dysE)*sE;
